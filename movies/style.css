@@ -1,0 +1,14 @@
+.primera_parte{
+    display: flex;
+    width: 100rem;
+    height: 200rem;
+    flex-direction: row;
+    font-size: 10rem;
+    padding: 10px;
+    margin: 10px;
+}
+.titulo{
+    font-size: 10rem;
+    display: flex;
+    justify-content: space-around;
+}
